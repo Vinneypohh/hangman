@@ -1,1 +1,1 @@
-print("All of me loves all of you")
+print("What would i do without your smart mouth")
